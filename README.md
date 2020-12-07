@@ -1,6 +1,6 @@
-# Kaggle Tutorial with RandomForest
+# Compare RandomForest with DecisionTree by using Kaggle tutorial
 
-## Use in Kaggle notebook
+## Use this in Kaggle notebook
 - Run the command below in notebook
 ```
 !pip install pydotplus
@@ -11,7 +11,7 @@
 ./data/test.csv -> /kaggle/input/titanic/test.csv
 ```
 
-## Use in your own PC
+## Use this in your own PC
 This notebook uses graphviz and pydotplus to visualize the decision tree<br>
 To install this, run the commands below in shell
 ```
