@@ -1,4 +1,10 @@
 # Compare RandomForest with DecisionTree by using Kaggle tutorial
+This notebook compares RandomForest with DecisionTree in the points below
+- Accuracy of the validation
+- Precision, Recall, and F1 Score
+- Important features
+- ROC Curve and AUC
+- Model Tree
 
 ## Use this in Kaggle notebook
 - Run the command below in notebook
